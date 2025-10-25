@@ -1,0 +1,10 @@
+.com-pg__collections__left {
+    float: left;
+    width: 390px;
+    height: 410px;
+    line-height: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
