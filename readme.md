@@ -100,7 +100,7 @@ homewhirl/
         ├── index.css
         ├── main.jsx
         └── pages
-        │   └── Homepage.jsx
+            └── Homepage.jsx
 └── README.md
 ```
 
